@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+
+# Data files
+data/
+
+# VS Code
+.vscode/
