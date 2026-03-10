@@ -1,0 +1,5 @@
+{
+    "model_name": "RandomForestClassifier",
+    "target_column": "subscribed_term_deposit",
+    "threshold": 0.4
+}
