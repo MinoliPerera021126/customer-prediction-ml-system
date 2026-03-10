@@ -104,7 +104,7 @@ Example Streamlit interface:
 
 ![Demo](docs/demo-ui.gif)
 
-Users can input customer information and receive an instant prediction of whether the custom
+Users can input customer information and receive an instant prediction of whether the customer is likely to subscribe.
 
 ---
 
