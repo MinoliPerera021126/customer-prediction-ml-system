@@ -111,7 +111,7 @@ Users can input customer information and receive an instant prediction of whethe
 # Installation
 Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/customer-prediction-ml-system.git
+git clone https://github.com/MinoliPerera021126/customer-prediction-ml-system.git
 cd customer-prediction-ml-system
 ```
 
