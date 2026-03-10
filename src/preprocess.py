@@ -4,8 +4,10 @@ from pandas.api.types import is_object_dtype, is_string_dtype
 RAW_TO_INTERNAL_COLUMNS = {
     "Credit": "credit",
     "previous marketing campaign": "previous_marketing_campaign",
+    "previous_marketing_campaign": "previous_marketing_campaign",
     "subscribed term deposit": "subscribed_term_deposit",
-    "last_contact_duration/sec": "last_contact_duration_sec"
+    "last_contact_duration/sec": "last_contact_duration_sec",
+    "last_contact_duration_sec": "last_contact_duration_sec",
 }
 
 EDUCATION_MAP = {
