@@ -1,15 +1,25 @@
-# Python
+# Python cache
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
-# Jupyter Notebook
+# Virtual environments
+venv/
+.env
+
+# Jupyter temporary files
 .ipynb_checkpoints/
 
-# Virtual Environment
-venv/
-
-# Data files
-data/
-
-# VS Code
+# IDE
 .vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large temporary ML artifacts
+*.log
+
+# Optional: ignore raw data if dataset is huge
+# data/
